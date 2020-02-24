@@ -1,6 +1,6 @@
 # Rails form_tag
 
-## Rails Forms
+## Rails Formss
 
 Welcome to the world of Rails forms, which give users the ability to submit data
 into form fields. This can be used for: creating new database records, building
